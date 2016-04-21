@@ -1,0 +1,17 @@
+{
+  "name": "yobert-append",
+  "description": "A simple dom appending helper",
+  "author": "yobert@gmail.com",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yobert-npmjs/append"
+  },
+  "bugs": {
+    "url": "https://github.com/yobert-npmjs/append/issues"
+  },
+  "license": "MIT"
+}
